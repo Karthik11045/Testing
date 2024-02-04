@@ -1,0 +1,51 @@
+SAI KARTHIKEYA KASIBHATLA
+Software QA/ Tester
+
+Hyderabad
++91 90325 81230
+
+As an accomplished Software Tester with a keen attention to detail, my objective is to leverage my expertise in designing, developing, and implementing various testing solutions in a dynamic software development environment. 
+
+PERSONAL INFORMATION
+  Address: , Hyderabad, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SKILLS
+  Functional Testing
+  Automation
+  Selenium Web Driver
+  TestNG
+  Java
+  SQL
+  JMeter
+  JIRA
+  GIT and GITHub
+  Test Case Design and Execution
+
+WORK EXPERIENCE
+  * September 2021
+    Programmer Analyst at Cognizant Technology Solutions, Hyderabad
+      
+  2.5 years of experience in Software Testing including manual and Automation.
+  Specialized in Functional,Regression,Interface Testing
+  Skilled in Designing and Executing comprehensive test cases with planning and precision.
+  Proficient in utilizing tools JIRA, HPE ALM, and ADO Boards for Test and Defect management
+  Good knowledge in AGILE Scrum Methodology, SDLC, STLC and BUG Life Cycle
+  Consistently delivered robust and reliable software products, meeting stringent quality standards within specified timeframes.
+
+
+
+EDUCATION
+  * July 2017 – July 2021
+    Gudlavalleru Engineering College,  Bachelor of Technology
+
+    CGPA - 9.48
+
+PROJECT SUMMARIES
+  * , , 
+  * , , 
+CERTIFICATIONS
+  * •Microsoft Certified: Azure Fundamentals July 2022, , 
+  * •ISTQB Certified Tester – Foundation level Accredited: Cognizant June 2023, , 
